@@ -1,0 +1,20 @@
+body{
+    width:960px;
+    margin:auto;
+}
+header{
+    background-color:#ffffff;
+    width:800px;
+}
+.name{
+    background-color:#4aaaa5;
+    width:18%;
+    text-align: center;
+    color:white;
+    padding:20px;
+}
+
+.nav{
+    float: left;
+    
+}
