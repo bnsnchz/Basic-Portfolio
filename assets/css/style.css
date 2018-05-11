@@ -19,10 +19,15 @@ header{
 
 nav{
     color:#777;
-    float:right;
+    width:250px;
+    padding:15px;
+    text-align: center;
+    margin:auto;
     position:relative;
-    bottom:60px;
-    right:160px;
+    left:385px;
+    bottom:70px;
+    
+
 }
 
 body{
@@ -98,6 +103,102 @@ form{
         border-radius:8px;
     }
 
+    .portfolio{
+        background-color:#fff;
+        margin:auto;
+        position: relative;
+        top:30px;
+        width:960px;
+        padding:15px;
+        
+    }
+
+    .port-text{
+        font-size: 45px;
+        padding:10px;
+        margin-bottom:50px;
+        margin-top:0px;
+     }
+
+     .images{
+         margin-top:50px;
+         position:relative;
+     }
+    
+     .caption-1{
+         background-color:#4aaaa5;
+         color:#fff;
+         font-size: 20px;
+         padding:15px;
+         width:303px;
+         text-align: center;
+         position:absolute;
+         top:150px;
+        }
+         
+     .caption-2{
+        background-color:#4aaaa5;
+        color:#fff;
+        font-size: 20px;
+        padding:15px;
+        width:303px;
+        text-align: center;
+        position:absolute;
+        top:150px;
+        left:400px;
+       }
+        
+     .caption-3{
+        background-color:#4aaaa5;
+        color:#fff;
+        font-size: 20px;
+        padding:15px;
+        width:303px;
+        text-align: center;
+        position:absolute;
+        top:400px;
+       }
+        
+     .caption-4{
+        background-color:#4aaaa5;
+        color:#fff;
+        font-size: 20px;
+        padding:15px;
+        width:303px;
+        text-align: center;
+        position:absolute;
+        top:400px;
+        left:400px;
+       }
+        
+     .caption-5{
+        background-color:#4aaaa5;
+        color:#fff;
+        font-size: 20px;
+        padding:15px;
+        width:303px;
+        text-align: center;
+        position:absolute;
+        top:675px;
+       }
+  
+    .image1{
+        margin-bottom:30px;
+    }
+
+    .image2{
+        margin-left:62px;
+        margin-bottom:30px;
+    }
+
+    .image3{
+        margin-bottom:30px;
+    }
+    
+    .image4{
+        margin-left:60px;
+        
+    }
 footer{
     background-color:#777777;
     color:#fff;
