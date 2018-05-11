@@ -184,11 +184,13 @@ form{
   
     .image1{
         margin-bottom:30px;
+        size:25%
     }
 
     .image2{
         margin-left:62px;
         margin-bottom:30px;
+        size:25%;
     }
 
     .image3{
@@ -200,15 +202,14 @@ form{
         
     }
 footer{
+    float:bottom;
     background-color:#777777;
     color:#fff;
     text-align: center;
-    padding:55px;
+    height:100px;
     border-top:10px solid #4aaaa5;
-    position:fixed;
-    left:0px;
-    bottom:0px;
-    width:100%
+    margin-top:50px;
+    width:100%;
 }
 
 
