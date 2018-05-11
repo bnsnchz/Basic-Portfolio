@@ -78,23 +78,23 @@ form{
     padding: 30px;
     }
 
-    .name{
+.name{
         width:100%;
         font-size:18px;
     }
 
-    .email{
+.email{
         width:100%;
         font-size:18px;
     }
 
-    .message{
+.message{
         width:100%;
         font-size:18px;
        
     }
 
-    .submit{
+.submit{
         background-color:#4aaaa5;
         width:150px;
         height:50px;
@@ -103,7 +103,7 @@ form{
         border-radius:8px;
     }
 
-    .portfolio{
+.portfolio{
         background-color:#fff;
         margin:auto;
         position: relative;
@@ -113,19 +113,19 @@ form{
         
     }
 
-    .port-text{
+.port-text{
         font-size: 45px;
         padding:10px;
         margin-bottom:50px;
         margin-top:0px;
      }
 
-     .images{
+.images{
          margin-top:50px;
          position:relative;
      }
     
-     .caption-1{
+.caption-1{
          background-color:#4aaaa5;
          color:#fff;
          font-size: 20px;
@@ -136,7 +136,7 @@ form{
          top:150px;
         }
          
-     .caption-2{
+.caption-2{
         background-color:#4aaaa5;
         color:#fff;
         font-size: 20px;
@@ -148,7 +148,7 @@ form{
         left:400px;
        }
         
-     .caption-3{
+.caption-3{
         background-color:#4aaaa5;
         color:#fff;
         font-size: 20px;
@@ -159,7 +159,7 @@ form{
         top:400px;
        }
         
-     .caption-4{
+.caption-4{
         background-color:#4aaaa5;
         color:#fff;
         font-size: 20px;
@@ -171,7 +171,7 @@ form{
         left:400px;
        }
         
-     .caption-5{
+.caption-5{
         background-color:#4aaaa5;
         color:#fff;
         font-size: 20px;
@@ -182,33 +182,32 @@ form{
         top:675px;
        }
   
-    .image1{
+.image1{
         margin-bottom:30px;
         size:25%
     }
 
-    .image2{
+.image2{
         margin-left:62px;
         margin-bottom:30px;
         size:25%;
     }
 
-    .image3{
+.image3{
         margin-bottom:30px;
     }
     
-    .image4{
+.image4{
         margin-left:60px;
         
     }
 footer{
-    float:bottom;
     background-color:#777777;
     color:#fff;
     text-align: center;
     height:100px;
     border-top:10px solid #4aaaa5;
-    margin-top:50px;
+    margin-top:200px;
     width:100%;
 }
 
